@@ -1,6 +1,6 @@
 {
   "name": "toon-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tiny converter JSON <-> TOON (Token-Oriented Object Notation)",
   "main": "index.js",
   "keywords": [
