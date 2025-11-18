@@ -1,12 +1,19 @@
-
 {
-  "name": "toon-json",            
-  "version": "1.0.0",
+  "name": "toon-json",
+  "version": "1.0.1",
   "description": "Tiny converter JSON <-> TOON (Token-Oriented Object Notation)",
   "main": "index.js",
   "keywords": ["toon", "json", "token", "serialization"],
-  "author": "Asif Ali(asifali24)",
+  "author": "Asif Ali (asifali24)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifali24/toon-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asifali24/toon-json/issues"
+  },
+  "homepage": "https://github.com/asifali24/toon-json#readme",
   "scripts": {
     "test": "node test.js"
   }
