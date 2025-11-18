@@ -1,0 +1,13 @@
+
+{
+  "name": "toon-json",            
+  "version": "1.0.0",
+  "description": "Tiny converter JSON <-> TOON (Token-Oriented Object Notation)",
+  "main": "index.js",
+  "keywords": ["toon", "json", "token", "serialization"],
+  "author": "Asif Ali(asifali24)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
